@@ -1,5 +1,5 @@
 ---
-title: Diane Uschner - Biostatistician
+title: Welcome!
 ---
 
 # Bio
